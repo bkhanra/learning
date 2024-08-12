@@ -2,7 +2,7 @@ package learning;
 import java.util.Scanner;
 
 public class Patterns {	
-	
+	//This is a demo to Anshu
 	public static void pattern1 (int n) {
 		
 		/*
